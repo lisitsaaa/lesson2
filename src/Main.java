@@ -8,7 +8,7 @@ public class Main {
             String name = input.nextLine();
 
             System.out.println("Hello " + name);
-            System.out.println("-*-*-*-*-*-*--*-*-*--*-*-*--*-*-*--*-*-*");
+            System.out.println("-*-*-*-*-*-*--*-*-*--*-*-*--*-*-*--*-*");
         }
     }
 }
